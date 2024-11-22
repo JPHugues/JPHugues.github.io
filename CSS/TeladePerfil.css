@@ -1,4 +1,4 @@
-/* Estilos gerais */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
     padding: 20px;
 }
 
-/* Estilos para o cabeçalho */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@ header img {
     height: 30px;
 }
 
-/* Estilos para a seção de perfil */
+
 main section {
     text-align: center;
     margin-top: 20px;
@@ -59,7 +59,7 @@ main section p {
     margin-bottom: 20px;
 }
 
-/* Estilos para os links de navegação */
+
 nav {
     display: flex;
     flex-direction: column;
@@ -82,7 +82,7 @@ nav a:hover {
     background-color: #ff8c00;
 }
 
-/* Estilos responsivos */
+
 @media (max-width: 600px) {
     header h1 {
         font-size: 20px;
