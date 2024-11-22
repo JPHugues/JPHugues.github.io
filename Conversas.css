@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, sans-serif; 
+}
+
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+header img, 
+main div h2, 
+main p strong, 
+footer button, 
+a 
+{
+    color: rgb(28, 146, 210); 
+}
+
+
+footer button {
+    background-color: rgb(28, 146, 210);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+
+a {
+    color: rgb(28, 146, 210);
+    text-decoration: none;
+}

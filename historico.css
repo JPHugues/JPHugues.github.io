@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
+
+header img {
+    color:  rgb(53, 64, 69); 
+    margin: 5px;
+}
+
+main h3 {
+    color: rgb(28, 146, 210); 
+    font-family: Arial, sans-serif;
+}
+a {
+    color: rgb(28, 146, 210); 
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, sans-serif; 
+}
+
+main p {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+section div img {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+
+section div {
+    margin-bottom: 15px;
+}
